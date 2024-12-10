@@ -62,7 +62,7 @@ pip3 install PyQt5
 pip install -r requirements.txt
 ```
 
-## 数据准备（无需操作，我已下载好数据集放在dataset目录下，参数文件在model目录下）
+## 数据准备（需要自己下载）
 数据集和预训练模型均已经上传到百度网盘，[链接](https://pan.baidu.com/s/1LFu52XTMBdsTSQjMIPYWnw)给出，提取密码为2pmd。下载后将`model.zip`移动到根目录下的`models`文件夹下并解压得到一个`*.h5`的模型参数文件，将`data.zip`移动到根目录下的`dataset`文件夹下并解压得到包含多个数据集压缩文件，均解压即可得到包含图像的数据集（**其中rar后缀的为原始jaffe数据集，这里建议使用我处理好的**）。
 
 
