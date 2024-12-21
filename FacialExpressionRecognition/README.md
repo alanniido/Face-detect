@@ -29,8 +29,8 @@
 ## 环境部署
 1. 下载代码，并配置虚拟环境
 ```shell script
-git clone https://github.com/luanshiyinyang/FacialExpressionRecognition.git
-cd FacialExpressionRecognition
+git clone https://github.com/alanniido/Face-detect.git
+cd Face-detect
 conda create -n FER python=3.7 -y
 conda activate FER
 ```
